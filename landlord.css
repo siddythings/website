@@ -1,0 +1,449 @@
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    border-bottom: 1px solid #d6d6d6;
+    box-sizing: border-box;
+    width: 1440px;
+    height: 111px;
+}
+
+.logo-icon {
+    position: relative;
+    width: 123px;
+    height: 32px;
+}
+
+.our-services {
+    position: relative;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.our-services-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 50px;
+}
+
+.logo-parent {
+    position: absolute;
+    top: 39px;
+    left: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 725px;
+}
+
+.rectangle-parent {
+    position: relative;
+    width: 1440px;
+    height: 111px;
+    font-family: Sora;
+}
+
+.rental-returns {
+    color: #00baf2;
+}
+
+.heading {
+    position: relative;
+    line-height: 115%;
+    display: inline-block;
+    width: 632px;
+}
+
+.description {
+    align-self: stretch;
+    position: relative;
+    font-size: 18px;
+    line-height: 160%;
+    font-family: Sora;
+    color: #0f0f0f;
+}
+
+.content {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 18px 0px 40px;
+    gap: 24px;
+}
+
+.label {
+    position: relative;
+    letter-spacing: 0.05em;
+    line-height: 160%;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.buttonprimarylargeno-icon {
+    border-radius: 6px;
+    background-color: #00baf2;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 17px 24px 18px;
+}
+
+.buttonwhite-borderlargeno-i {
+    border-radius: 6px;
+    background-color: #fff;
+    border: 1px solid #00baf2;
+    display: none;
+}
+
+.cta-group {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    font-family: Sora;
+}
+
+.column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 120px 0px;
+}
+
+.container-child {
+    position: relative;
+    width: 558px;
+    height: 555.47px;
+}
+
+.container {
+    width: 1280px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 90px;
+}
+
+.wide-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.herov2desktop {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 90px;
+    font-size: 80px;
+}
+
+.heading1 {
+    align-self: stretch;
+    position: relative;
+    line-height: 115%;
+}
+
+.description1 {
+    align-self: stretch;
+    position: relative;
+    font-size: 16px;
+    line-height: 160%;
+    font-family: Sora;
+    color: #0f0f0f;
+}
+
+.row {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 0px 24px;
+    gap: 24px;
+    font-size: 70px;
+    color: #00baf2;
+}
+
+.icon-group {
+    position: relative;
+    width: 48px;
+    height: 48px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.heading2 {
+    align-self: stretch;
+    position: relative;
+    line-height: 140%;
+}
+
+.description2 {
+    align-self: stretch;
+    position: relative;
+    font-size: 15px;
+    line-height: 160%;
+    font-family: Sora;
+    color: #0f0f0f;
+}
+
+.column1 {
+    flex: 1;
+    background-color: #f3f2ee;
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 30px 28px 34px;
+    box-sizing: border-box;
+    gap: 14px;
+}
+
+.icon-bulb {
+    position: relative;
+    width: 48px;
+    height: 48px;
+}
+
+.columns {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+}
+
+.row1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.column4 {
+    align-self: stretch;
+    flex: 1;
+    background-color: #f3f2ee;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 30px 28px 34px;
+    gap: 14px;
+}
+
+.container1 {
+    width: 1280px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 24px;
+}
+
+.wide-container1 {
+    width: 1500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 160px 0px;
+    box-sizing: border-box;
+}
+
+.benefits3-columns {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 24px;
+}
+
+.heading8 {
+    align-self: stretch;
+    position: relative;
+    line-height: 115%;
+    font-family: 'Playfair Display';
+}
+
+.sub-title {
+    position: relative;
+    font-size: 18px;
+    line-height: 160%;
+    color: #0f0f0f;
+    display: inline-block;
+    width: 600px;
+}
+
+.buttonprimarylargeno-icon1 {
+    border-radius: 6px;
+    background-color: #00baf2;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 17px 24px 18px;
+    font-size: 14px;
+    color: #fff;
+}
+
+.content1 {
+    width: 960px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+
+.container2 {
+    width: 1280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.wide-container2 {
+    width: 1500px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 130px 0px 150px;
+    box-sizing: border-box;
+    background-image: url('Wide Container.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.panelctadesktop {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 0px 60px;
+    text-align: center;
+    font-size: 70px;
+    font-family: Sora;
+}
+
+.instance-child {
+    position: relative;
+    background-color: #fff;
+    width: 1680px;
+    height: 298px;
+    z-index: 0;
+}
+
+.left-nav {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 32px 0px 0px;
+    gap: 10px;
+}
+
+.row2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.legal-statement {
+    align-self: stretch;
+    position: relative;
+    line-height: 150%;
+    display: inline-block;
+    width: 1280px;
+    flex-shrink: 0;
+}
+
+.legal {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 14px;
+    font-family: Sora;
+}
+
+.container3 {
+    width: 1280px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 40px;
+}
+
+.wide-container3 {
+    margin: 0 !important;
+    position: absolute;
+    top: 0px;
+    left: 90px;
+    width: 1500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 48px 0px 86px;
+    box-sizing: border-box;
+    z-index: 1;
+}
+
+.rectangle-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    gap: 10px;
+    font-size: 18px;
+    color: #0f0f0f;
+}
+
+.landlordv2desktop {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 15px;
+    color: #000;
+    font-family: 'Playfair Display';
+}

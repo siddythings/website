@@ -1,0 +1,735 @@
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    border-bottom: 1px solid #d6d6d6;
+    box-sizing: border-box;
+    width: 1440px;
+    height: 111px;
+}
+
+.logo-icon {
+    position: relative;
+    width: 123px;
+    height: 32px;
+}
+
+.our-services {
+    position: relative;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.our-services-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 50px;
+}
+
+.logo-parent {
+    position: absolute;
+    top: 39px;
+    left: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 725px;
+}
+
+.rectangle-parent {
+    position: relative;
+    width: 1440px;
+    height: 111px;
+}
+
+.group-icon {
+    position: absolute;
+    height: 7.01%;
+    width: 98.72%;
+    top: 92.99%;
+    right: 0%;
+    bottom: 0%;
+    left: 1.28%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group-icon1 {
+    position: absolute;
+    height: 30.53%;
+    width: 91.39%;
+    top: 3.68%;
+    right: 8.61%;
+    bottom: 65.79%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group-icon2 {
+    position: absolute;
+    height: 61.46%;
+    width: 87.38%;
+    top: 16.03%;
+    right: 5.27%;
+    bottom: 22.52%;
+    left: 7.35%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group-icon3 {
+    position: absolute;
+    height: 90.03%;
+    width: 73.38%;
+    top: 0%;
+    right: 16.04%;
+    bottom: 9.97%;
+    left: 10.58%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group-icon4 {
+    position: absolute;
+    height: 100%;
+    width: 94.19%;
+    top: 0%;
+    right: 2.62%;
+    bottom: 0%;
+    left: 3.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group-icon5 {
+    position: absolute;
+    height: 26.24%;
+    width: 100%;
+    top: 15.25%;
+    right: 0%;
+    bottom: 58.51%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.vector-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group-icon6 {
+    position: absolute;
+    height: 12.32%;
+    width: 70.79%;
+    top: 70.84%;
+    right: 0%;
+    bottom: 16.84%;
+    left: 29.21%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.vector-icon1 {
+    position: absolute;
+    height: 12.31%;
+    width: 23.29%;
+    top: 70.84%;
+    right: 76.71%;
+    bottom: 16.85%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group-icon7 {
+    position: absolute;
+    height: 12.32%;
+    width: 99.93%;
+    top: 0%;
+    right: 0.07%;
+    bottom: 87.68%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.rent {
+    position: absolute;
+    top: 5.87%;
+    left: 0%;
+}
+
+.rent1 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+.group5 {
+    position: absolute;
+    height: 94.13%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 5.87%;
+    left: 0%;
+    color: #fefdff;
+}
+
+.group4 {
+    position: absolute;
+    height: 98.23%;
+    width: 62.31%;
+    top: 0.35%;
+    right: 21.57%;
+    bottom: 1.41%;
+    left: 16.12%;
+}
+
+.group3 {
+    position: absolute;
+    height: 11.15%;
+    width: 68.29%;
+    top: 88.85%;
+    right: 16.78%;
+    bottom: 0%;
+    left: 14.93%;
+}
+
+.group2 {
+    position: absolute;
+    height: 82.49%;
+    width: 83.07%;
+    top: 12.37%;
+    right: 7.43%;
+    bottom: 5.14%;
+    left: 9.5%;
+}
+
+.group-icon8 {
+    position: absolute;
+    height: 6.48%;
+    width: 70.32%;
+    top: 0%;
+    right: 14.84%;
+    bottom: 93.52%;
+    left: 14.84%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group1 {
+    position: absolute;
+    height: 94.92%;
+    width: 85.47%;
+    top: 2.54%;
+    right: 6.98%;
+    bottom: 2.54%;
+    left: 7.56%;
+}
+
+.group-icon9 {
+    position: absolute;
+    height: 35.38%;
+    width: 81.77%;
+    top: 29.01%;
+    right: 8.66%;
+    bottom: 35.6%;
+    left: 9.57%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.vector-icon3 {
+    position: absolute;
+    height: 94.71%;
+    width: 85.14%;
+    top: 2.75%;
+    right: 6.98%;
+    bottom: 2.54%;
+    left: 7.89%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.3;
+}
+
+.group {
+    position: absolute;
+    height: 81.22%;
+    width: 42.21%;
+    top: 15.59%;
+    right: 31.22%;
+    bottom: 3.2%;
+    left: 26.57%;
+}
+
+.group-icon10 {
+    position: absolute;
+    height: 49.73%;
+    width: 23.49%;
+    top: 47.94%;
+    right: 71.01%;
+    bottom: 2.33%;
+    left: 5.49%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group-icon11 {
+    position: absolute;
+    height: 78.56%;
+    width: 25.47%;
+    top: 19.21%;
+    right: 6.96%;
+    bottom: 2.23%;
+    left: 67.57%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group-parent {
+    position: relative;
+    width: 564.63px;
+    height: 503.27px;
+}
+
+.rental-journey {
+    color: #00baf2;
+}
+
+.heading {
+    position: relative;
+    line-height: 115%;
+    display: inline-block;
+    width: 542px;
+}
+
+.description {
+    align-self: stretch;
+    position: relative;
+    font-size: 18px;
+    line-height: 160%;
+    font-family: Sora;
+    color: #0f0f0f;
+}
+
+.content {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 18px 0px 40px;
+    gap: 24px;
+}
+
+.label {
+    position: relative;
+    letter-spacing: 0.05em;
+    line-height: 160%;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.buttonprimarylargeno-icon {
+    border-radius: 6px;
+    background-color: #00baf2;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 17px 24px 18px;
+}
+
+.buttonwhite-borderlargeno-i {
+    border-radius: 6px;
+    background-color: #fff;
+    border: 1px solid #00baf2;
+    display: none;
+}
+
+.cta-group {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    font-family: Sora;
+}
+
+.column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 120px 0px;
+    font-size: 80px;
+    color: #000;
+    font-family: 'Playfair Display';
+}
+
+.container {
+    width: 1280px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 90px;
+}
+
+.wide-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.herov2desktop {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 90px;
+    font-size: 27.22px;
+    color: #16162f;
+    font-family: Inter;
+}
+
+.heading1 {
+    align-self: stretch;
+    position: relative;
+    line-height: 115%;
+}
+
+.description1 {
+    align-self: stretch;
+    position: relative;
+    font-size: 16px;
+    line-height: 160%;
+    font-family: Sora;
+    color: #0f0f0f;
+}
+
+.row {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 0px 24px;
+    gap: 24px;
+    font-size: 70px;
+    color: #00baf2;
+}
+
+.icon-group {
+    position: relative;
+    width: 48px;
+    height: 48px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.heading2 {
+    align-self: stretch;
+    position: relative;
+    line-height: 140%;
+}
+
+.description2 {
+    align-self: stretch;
+    position: relative;
+    font-size: 15px;
+    line-height: 160%;
+    font-family: Sora;
+    color: #0f0f0f;
+}
+
+.column1 {
+    flex: 1;
+    background-color: #f3f2ee;
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 30px 28px 34px;
+    box-sizing: border-box;
+    gap: 14px;
+}
+
+.icon-bulb {
+    position: relative;
+    width: 48px;
+    height: 48px;
+}
+
+.description4 {
+    align-self: stretch;
+    position: relative;
+    font-size: 15px;
+    line-height: 160%;
+    font-family: Sora;
+    color: #0f0f0f;
+    display: inline-block;
+    height: 96px;
+    flex-shrink: 0;
+}
+
+.columns {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+}
+
+.row1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.column4 {
+    align-self: stretch;
+    flex: 1;
+    background-color: #f3f2ee;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 30px 28px 34px;
+    gap: 14px;
+}
+
+.container1 {
+    width: 1280px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 24px;
+}
+
+.wide-container1 {
+    width: 1500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 160px 0px;
+    box-sizing: border-box;
+}
+
+.benefits3-columns {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 24px;
+    font-family: 'Playfair Display';
+}
+
+.heading8 {
+    align-self: stretch;
+    position: relative;
+    line-height: 115%;
+    font-family: 'Playfair Display';
+}
+
+.sub-title {
+    position: relative;
+    font-size: 18px;
+    line-height: 160%;
+    color: #0f0f0f;
+    display: inline-block;
+    width: 600px;
+}
+
+.buttonprimarylargeno-icon1 {
+    border-radius: 6px;
+    background-color: #00baf2;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 17px 24px 18px;
+    font-size: 14px;
+    color: #fff;
+}
+
+.content1 {
+    width: 960px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+
+.container2 {
+    width: 1280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.wide-container2 {
+    width: 1500px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 130px 0px 150px;
+    box-sizing: border-box;
+    background-image: url('Wide Container.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.panelctadesktop {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 0px 60px;
+    text-align: center;
+    font-size: 70px;
+}
+
+.instance-child {
+    position: relative;
+    background-color: #fff;
+    width: 1680px;
+    height: 298px;
+    z-index: 0;
+}
+
+.left-nav {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 32px 0px 0px;
+    gap: 10px;
+}
+
+.row2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.legal-statement {
+    align-self: stretch;
+    position: relative;
+    line-height: 150%;
+    display: inline-block;
+    width: 1280px;
+    flex-shrink: 0;
+}
+
+.legal {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 14px;
+    font-family: Sora;
+}
+
+.container3 {
+    width: 1280px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 40px;
+}
+
+.wide-container3 {
+    margin: 0 !important;
+    position: absolute;
+    top: 0px;
+    left: 90px;
+    width: 1500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 48px 0px 86px;
+    box-sizing: border-box;
+    z-index: 1;
+}
+
+.rectangle-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    gap: 10px;
+    font-size: 18px;
+    color: #0f0f0f;
+    font-family: 'Playfair Display';
+}
+
+.tannentv2desktop {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 15px;
+    color: #000;
+    font-family: Sora;
+}
